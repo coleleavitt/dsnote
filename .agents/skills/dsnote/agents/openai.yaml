@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dsnote"
+  short_description: "Repo-specific patterns and workflows for dsnote"
+  default_prompt: "Use the dsnote repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
